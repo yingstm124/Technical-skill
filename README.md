@@ -8,6 +8,11 @@ Before getting started, ensure you have the following installed on your system:
 - **.NET 9 SDK** - [Download .NET 9](https://dotnet.microsoft.com/download/dotnet/9.0)
 - **Node.js 20+** - [Download Node.js](https://nodejs.org/)
 
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+<img src="Frontend/src/assets/pic2.jpg" alt="Picture 2" width="48%" />
+  <img src="Frontend/src/assets/pic1.jpg" alt="Picture 1" width="48%" />
+</div>
+
 ### Verify Installation
 ```bash
 # Check versions
